@@ -17,3 +17,8 @@ kosinusno podobnost in je hkrati bil objavljen največ 3 dni pred obravnavanim �
 Poleg tega smo še izračunali Levenshteinovo razdaljo med obravnavanim člankom in njemu najpodobnejšim člankom. To je razdalja med dvema nizoma str1 in str2, ki pove, koliko je najmanj potrebnih menjav, da
 str1 spremenimo v str2.
 V zadnjem dokumentu smo vse povezali in predstavili v jupyter notebooku.  
+V mapi "testi" so shranjene kode, katerih kardinalni smoter je pridobiti vsebino člankov iz RTV.
+Mapa "siol" je namenjena pridobitvi vsebine člankov izi Siola.
+Mapa "korelacije" je posvečena konkretnim računom kosinusnih podobnostih in zadnje priprave na analizo podatkov.
+V mapi "analiza_podatkov" pa seveda izvedemo končno analizo podatkov in predstavimo rezultate.
+Opomba: v repository nismo shranili tekstovnih datotek, v katerih je zapisana vsebina člankov, saj je teh preprosto preveč. Bistveni podatki (podobnosti, itd.) so shranjeni v CSV datotekah v mapi "analiza_podatkov". 
